@@ -1,0 +1,11 @@
+[
+                 {
+                   "relation": ["delegate_permission/common.handle_all_urls"],
+                   "target": {
+                     "namespace": "android_app",
+                     "package_name": "com.clive.zikora",
+                     "sha256_cert_fingerprints":
+                       ["9E:0D:32:D1:13:A1:3D:96:82:6A:E4:31:23:E7:F2:0A:6E:1F:04:5B:C9:B7:D2:4F:23:19:10:3D:D5:0C:CF:F5"]
+                   }
+                 }
+]
